@@ -1,0 +1,11 @@
+img {
+    height: 40vmin;
+    pointer-events: none;
+  }
+#name {
+    float:center;
+    font-family: 'Mooli', sans-serif;
+    color:rgb(2, 2, 51);
+    margin: 50px;
+}
+  
